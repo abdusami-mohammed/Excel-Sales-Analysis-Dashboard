@@ -1,6 +1,8 @@
 # Excel-Sales-Analysis-Dashboard
 Interactive Pizza Store Sales Analysis: Uncovering customer favorites, peak order times, and sales insights through SQL and Excel visualization.
 
+## [View the Excel Dashboard](https://github.com/abdusami-mohammed/Excel-Sales-Analysis-Dashboard/blob/234274c30eedf578f70fbc1ecc36280e44385035/pizza_sales-dashboard.xlsx)
+
 ## Project Overview
 This project provides an in-depth analysis of pizza sales data using Excel and SQL. It combines the power of SQL for data querying and validation with Excel's capabilities to create an interactive and insightful dashboard. The analysis reveals key performance metrics (KPIs) and visualizes sales trends to inform business decisions.
 
